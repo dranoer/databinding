@@ -10,4 +10,4 @@ To fix this there is a technique and pattern called data binding that allows us 
 You can access to the full document on Medium by this link:
 https://medium.com/@dranoer/easy-data-binding-b876d61aeac9
 
-Enjoy :)
+⚡️ Enjoy :)
