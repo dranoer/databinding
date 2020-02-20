@@ -9,6 +9,6 @@ I ❤️ how Data Binding works, and this project shows you the simplest way for
 
 🍻 You can access to the full document on Medium by this link:
 
-https://medium.com/@dranoer/easy-data-binding-b876d61aeac9
+https://link.medium.com/u3CE2oYte4
 
 ⚡️⚡️ Enjoy :)
